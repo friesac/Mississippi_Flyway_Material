@@ -6,6 +6,7 @@
 <!--       Institute of Evolutionary Biology, University of Edinburgh        -->
 <!--       David Geffen School of Medicine, University of California, Los Angeles-->
 <!--       http://beast.bio.ed.ac.uk/                                        -->
+<!--	Created with Beauti v1.8.0 but modified by hand to run in BEAST v1.8 -->
 <beast>
 
 	<!-- The list of taxa to be analysed (can also include dates/ages).          -->
